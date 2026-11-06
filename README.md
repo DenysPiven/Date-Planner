@@ -1,8 +1,8 @@
-# DatePlanner
+# Date Planner
 
 Personal date invitation page. She shares the link; he answers the questionnaire and leaves Instagram.
 
-Live: https://denyspiven.github.io/DatePlanner/
+Live: https://denyspiven.github.io/Date-Planner/
 
 ## Applications (inbox)
 
@@ -10,7 +10,7 @@ Every application is saved to online storage.
 
 **Open this page to see them:**
 
-https://denyspiven.github.io/DatePlanner/inbox.html
+https://denyspiven.github.io/Date-Planner/inbox.html
 
 Inbox password is **not** stored in plaintext. Applications are encrypted;
 opening `config.js` in Network only shows hashes/keys, not the password or readable applications.
